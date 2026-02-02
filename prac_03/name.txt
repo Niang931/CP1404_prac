@@ -1,0 +1,6 @@
+Bob
+12
+Jane
+not a number
+Derek
+21
